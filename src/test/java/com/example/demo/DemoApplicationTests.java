@@ -21,7 +21,7 @@ class DemoApplicationTests {
     void addProduct(){
         Product product=new Product();
         product.setName("IPone");
-        product.setPrice(100);
+        product.setPrice(1000);
         productRepository.save(product);
     }
 
