@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
     @Test
     void fakeTests() {
-        System.out.println(oooo);
+        System.out.println("layth abufarhah");
     }
 
 }
